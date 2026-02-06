@@ -1,8 +1,11 @@
 # Hi there 👋
 
 # About Me:
-Interested in [Linux CLI tools, TUI dev, and AI<br>Trying not to be an introvert.](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24C8DB&center=true&vCenter=true&width=435&lines=Linux+CLI+Enthusiast;TUI+Developer;AI+Integrator;Cactus+Jack+Fan)
+Interested in:
 
+<p align="center">
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24C8DB&center=true&vCenter=true&width=435&lines=Linux+CLI+Enthusiast;TUI+Developer;AI+Integrator;Cactus+Jack+Fan](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24C8DB&center=true&vCenter=true&width=435&lines=Linux+CLI+Enthusiast;TUI+Developer;AI+Integrator;Cactus+Jack+Fan)" alt="Typing SVG" />
+</p>
 
 ## Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@felix_devx) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@felix_devx@mastodon.social) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaiscott.centura@gmail.com) 
