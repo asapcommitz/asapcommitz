@@ -4,7 +4,7 @@
 Interested in:
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24C8DB&center=true&vCenter=true&width=435&lines=Linux+CLI+Enthusiast;TUI+Developer;AI+Integrator;Cactus+Jack+Fan](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24C8DB&center=true&vCenter=true&width=435&lines=Linux+CLI+Enthusiast;TUI+Developer;AI+Integrator;Cactus+Jack+Fan)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=1000&color=24C8DB&center=true&vCenter=true&width=435&lines=Linux+CLI;TUI+Development;AI;Learning+how+to+not+overthink+and+not+be+shy" alt="Typing SVG" />
 </p>
 
 ## Socials:
